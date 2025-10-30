@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+
+
+/* Animation: Sketch-in effect */
+@keyframes sketch {
+  0% {
+    filter: brightness(0.2) blur(5px);
+    transform: scale(0.8) rotate(-2deg);
+    opacity: 0;
+  }
+  30% {
+    filter: brightness(1.2) blur(2px);
+    opacity: 0.6;
+  }
+  60% {
+    transform: scale(1.05) rotate(1deg);
+    filter: brightness(1.05) blur(1px);
+    opacity: 0.9;
+  }
+  100% {
+    filter: brightness(1) blur(0);
+    transform: scale(1) rotate(0);
+    opacity: 1;
+  }
+}
+
+@layer utilities {
+  .animate-sketch {
+    animation: sketch 1.8s ease-out forwards;
+  }
+
+  .scrollbar-hide {
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+}
+
+@layer utilities {
+  /* Hide scrollbar in Chrome, Safari, Opera */
+  .scrollbar-hidden::-webkit-scrollbar {
+    display: none;
+  }
+  /* Hide scrollbar in Firefox, IE, Edge */
+  .scrollbar-hidden {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
+}

@@ -1,0 +1,835 @@
+[
+  {
+    "id": 100,
+    "title": "Samsung Double Door Refrigerator",
+    "type": "Large Household Appliances",
+    "image": "https://images.unsplash.com/photo-1677470749785-865d577ef881?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "status": "Exchange",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://media.istockphoto.com/id/1453659646/photo/open-door-of-the-fridge-with-bright-light.jpg?s=1024x1024&w=is&k=20&c=4e4_Uj07sTDQDtZTrNwRLvogZ55dUKcDkTECYgU96ys=",
+      "https://images.unsplash.com/photo-1677470749785-865d577ef881?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "https://media.istockphoto.com/id/1412667301/photo/open-fridge-in-the-kitchen.jpg?s=2048x2048&w=is&k=20&c=WLhmzilh_zl2BJNhPNe5btDsUA2boFqmtsR2qgTNWFU=",
+      ],
+    "cardTitle": "Samsung Double Door Refrigerator",
+    "userId": "user_1",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": null,
+    "description": "This large appliance offers robust performance with energy efficiency. Ideal for household needs, it includes user-friendly features and ample capacity. Well maintained and lightly used, it runs smoothly with no issues. Perfect for exchange or reuse, it adds value to any modern living space."
+  },
+  {
+    "id": 101,
+    "title": "Philips Mixer Grinder",
+    "type": "Small Household Appliances",
+    "image": "https://media.istockphoto.com/id/2169446825/photo/electric-mixer-grinder.jpg?s=2048x2048&w=is&k=20&c=2QNw98b1-UlK3zPr2eotBK8XKGrObQJOPizRMkuTqXw=",
+    "status": "For Sale",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://media.istockphoto.com/id/2169446825/photo/electric-mixer-grinder.jpg?s=2048x2048&w=is&k=20&c=2QNw98b1-UlK3zPr2eotBK8XKGrObQJOPizRMkuTqXw=",
+      "https://media.istockphoto.com/id/942298386/photo/various-kitchen-utensils-on-the-table.jpg?s=2048x2048&w=is&k=20&c=jHMO2xahI5FgdWpyUf7WnakMoa636P-EEBLGqxzmUYI=",
+      "https://media.istockphoto.com/id/1471360120/photo/cooking.jpg?s=1024x1024&w=is&k=20&c=NDJtOY1p5eJPGM_uyRZU92-bpGeICAIohYcMmY7LN54=",
+     ],
+    "cardTitle": "Philips Mixer Grinder",
+    "userId": "user_2",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": 1015,
+    "description": "Compact and reliable, this small appliance is perfect for daily household tasks. Light signs of use with full functionality. It’s easy to operate and maintain. Suitable for kitchens, dorms, or small apartments. Great for exchange or resale, offering practical utility at a low cost."
+  },
+  {
+    "id": 102,
+    "title": "HP Pavilion Gaming Laptop",
+    "type": "Information & Communication Technology",
+    "image": "https://tiny-reviews.com/wp-dir/wp-content/uploads/2019/10/19_big-1-e1570266039250.jpg",
+    "status": "Exchange",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://tiny-reviews.com/wp-dir/wp-content/uploads/2019/10/5_big-6-e1570265791695.jpg   ",
+      "https://tiny-reviews.com/wp-dir/wp-content/uploads/2019/10/19_big-1-e1570266039250.jpg",
+      "https://tiny-reviews.com/wp-dir/wp-content/uploads/2019/10/6_big-3-e1570265821586.jpg",
+      
+    ],
+    "cardTitle": "HP Pavilion Gaming Laptop",
+    "userId": "user_3",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": null,
+    "description": "This ICT device is tested and ready for use in both home and office environments. Delivers reliable connectivity and modern tech features. Minor cosmetic wear, no impact on performance. Perfect for exchange, remote work, or study. A practical addition to your tech setup."
+  },
+  {
+    "id": 103,
+    "title": "Sony Bluetooth Speaker",
+    "type": "Consumer Electronics / Devices",
+    "image": "https://guide-images.cdn.ifixit.com/igi/YJQbukcNSqfXNB1Z.standard",
+    "status": "For Sale",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://i.ebayimg.com/images/g/dXkAAOSwXpplxSEi/s-l500.jpg",
+      "https://guide-images.cdn.ifixit.com/igi/YJQbukcNSqfXNB1Z.standard",
+      "https://guide-images.cdn.ifixit.com/igi/4TDgF31ednA1xPEg.standard",
+     
+    ],
+    "cardTitle": "Sony Bluetooth Speaker",
+    "userId": "user_4",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": 1045,
+    "description": "Fully functional and tested, this consumer electronic device offers excellent usability. Sleek design, responsive interface, and high-quality output. Ideal for entertainment or productivity purposes. Well preserved and exchange-ready, it’s a smart choice for those upgrading or trading tech essentials."
+  },
+  {
+    "id": 104,
+    "title": "Samsung 32-inch LED TV",
+    "type": "TVs, Monitors & Display Devices",
+    "image": "https://pictures-uganda.jijistatic.com/158839_15616673042118010_933x700.jpg",
+    "status": "Exchange",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://pictures-uganda.jijistatic.com/158849_15616673055624362_525x700.jpg",
+      "https://pictures-uganda.jijistatic.com/158839_15616673042118010_933x700.jpg",
+      "https://pictures-uganda.jijistatic.com/158859_15616673069054010_933x700.jpg ",
+      
+    ],
+    "cardTitle": "Samsung 32-inch LED TV",
+    "userId": "user_5",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": null,
+    "description": "This display unit delivers clear visuals and dependable performance. Whether used for gaming, work, or media viewing, it offers solid screen quality and resolution. Light wear from regular use, no screen damage. Ideal for bartering or reuse at home or office."
+  },
+  {
+    "id": 105,
+    "title": "Luminous Inverter Battery",
+    "type": "Batteries & Power Storage",
+    "image": "https://apollo.olx.in/v1/files/ypbkqn1r6xlb3-IN/image;s=300x600;q=60",
+    "status": "For Sale",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://apollo.olx.in/v1/files/koucd9nhaupr2-IN/image;s=300x600;q=60 ",
+      "https://apollo.olx.in/v1/files/ypbkqn1r6xlb3-IN/image;s=300x600;q=60",
+      "https://apollo.olx.in/v1/files/toe2q49v28zm-IN/image;s=300x600;q=60 ",
+     
+    ],
+    "cardTitle": "Luminous Inverter Battery",
+    "userId": "user_6",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": 1075,
+    "description": "Efficient power storage unit with consistent output and safe performance. Well suited for home systems, tools, or backup energy needs. Tested and working well with minimal signs of wear. Good for reuse or exchange for similar value electronics and components."
+  },
+  {
+    "id": 106,
+    "title": "Bosch Electric Drill",
+    "type": "Electrical Tools & Equipment",
+    "image": " https://5.imimg.com/data5/SELLER/Default/2025/2/489677129/PN/UX/PC/19880809/bosch-gsb600-impact-drill-1000x1000.jpeg ",
+    "status": "Exchange",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2025/1/484048212/UW/GD/WK/19880809/matrix-manual-hand-operated-grease-pump-1000x1000.jpeg   ",
+      "https://5.imimg.com/data5/SELLER/Default/2025/2/489677129/PN/UX/PC/19880809/bosch-gsb600-impact-drill-1000x1000.jpeg  ",
+      "  https://5.imimg.com/data5/SELLER/Default/2025/1/484048201/VM/QL/QQ/19880809/matrix-manual-hand-operated-grease-pump-1000x1000.jpeg ",
+    
+    ],
+    "cardTitle": "Bosch Electric Drill",
+    "userId": "user_7",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": null,
+    "description": "Durable electrical tool or equipment with essential functions intact. Works reliably under routine conditions, good for DIY, repairs, or professional tasks. Little visible wear, well-tested, and ready to use. Valuable asset for anyone needing efficient tools on exchange basis."
+  },
+  {
+    "id": 107,
+    "title": "HP LaserJet Pro Printer",
+    "type": "Office & Business Equipment",
+    "image": "https://img.clevup.in/283527/SKU-0665_0-1748770991410.jpg?width=600&format=webp  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://img.clevup.in/283527/SKU-0665_0-1748770991410.jpg?width=600&format=webp  ",
+      "https://img.clevup.in/283527/SKU-0665_1-1748770991970.jpg?width=600&format=webp   ",
+     
+    
+    ],
+    "cardTitle": "HP LaserJet Pro Printer",
+    "userId": "user_8",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": 1105,
+    "description": "Suitable for small businesses or home offices, this equipment runs efficiently. Light wear, fully functional, and clean. Designed for productivity with low maintenance. Ideal for someone looking to exchange quality office tools at a reasonable cost."
+  },
+  {
+    "id": 108,
+    "title": "Anker USB-C to HDMI Cable",
+    "type": "Cables & Accessories",
+    "image": "https://target.scene7.com/is/image/Target/GUEST_0e06956c-97e9-4ac0-840c-02375ca5a4e5?wid=1200&hei=1200&qlt=80&fmt=webp   ",
+    "status": "Exchange",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://target.scene7.com/is/image/Target/GUEST_38c63ca1-7914-4c75-8009-c612a5e985f4?wid=1000&hei=1000&qlt=80&fmt=webp  ",
+      " https://target.scene7.com/is/image/Target/GUEST_0e06956c-97e9-4ac0-840c-02375ca5a4e5?wid=1200&hei=1200&qlt=80&fmt=webp  ",
+  
+      
+    ],
+    "cardTitle": "Anker USB-C to HDMI Cable",
+    "userId": "user_9",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": null,
+    "description": "A set of essential cables or accessories in good working condition. Useful for device connectivity, charging, or syncing. Each item tested and ready for use. Minimal cosmetic flaws. Exchange this bundle for similar gear or useful electronics."
+  },
+  {
+    "id": 109,
+    "title": "Philips LED Bulb Set",
+    "type": "Lighting Devices",
+    "image": " https://5.imimg.com/data5/XF/UM/JZ/ANDROID-27395816/product-jpeg-1000x1000.jpg  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/XF/UM/JZ/ANDROID-27395816/product-jpeg-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/XF/UM/JZ/ANDROID-27395816/product-jpeg-1000x1000.jpg   ",
+     
+      
+    ],
+    "cardTitle": "Philips LED Bulb Set",
+    "userId": "user_10",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": 1135,
+    "description": "Lighting equipment in working condition, providing ample brightness for room or workspace. Energy-efficient and easy to install. Mild signs of use but no damage to functionality. Exchange-ready and great for eco-conscious users upgrading setups."
+  },
+  {
+    "id": 110,
+    "title": "Google Nest Mini",
+    "type": "Smart Home Devices",
+    "image": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/nest-mini-reaction-lights.jpg?q=49&fit=crop&w=825&dpr=2",
+    "status": "Exchange",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://www.androidpolice.com/reactivating-old-nest-speaker-complicated-directions/  ",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/nest-mini-reaction-lights.jpg?q=49&fit=crop&w=825&dpr=2",
+      "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/10/nest-mini-on-table.jpg?q=49&fit=crop&w=825&dpr=2",
+     
+    ],
+    "cardTitle": "Google Nest Mini",
+    "userId": "user_11",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": null,
+    "description": "Modern smart home gadget, lightly used and fully responsive. Enhances daily convenience through automation and remote control. Compatible with most home ecosystems. Perfect for exchange to upgrade or expand home automation with minimal expense."
+  },
+  {
+    "id": 111,
+    "title": "Intel Core i5 Processor",
+    "type": "Components & Spares",
+    "image": "https://5.imimg.com/data5/KH/TA/WK/SELLER-51517768/intel-cpu-core-i5-7600-processor-1000x1000.jpg   ",
+    "status": "For Sale",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/JM/JV/NR/SELLER-51517768/intel-cpu-core-i5-7600-processor-1000x1000.jpg  ",
+      "https://5.imimg.com/data5/KH/TA/WK/SELLER-51517768/intel-cpu-core-i5-7600-processor-1000x1000.jpg    ",
+      
+      
+    ],
+    "cardTitle": "Intel Core i5 Processor",
+    "userId": "user_12",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": 1165,
+    "description": "Electronic components or spares in working order, tested and preserved. Ideal for repairs, DIY electronics, or replacements. No missing parts, suitable for technical users or resellers. Offered for exchange, great utility for tinkerers or small workshops."
+  },
+  {
+    "id": 112,
+    "title": "Lego Technic Car",
+    "type": "Miscellaneous / Toys",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/12/364913425/NK/SC/TN/48570929/816wu6c4mql-sl1500-1000x1000.jpeg  ",
+    "status": "Exchange",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/12/364912731/TE/LQ/HF/48570929/lego-technic-ferrari-daytona-sp3-42143-building-kit-3-778-pieces-multi-color-1000x1000.jpg  ",
+      "https://5.imimg.com/data5/SELLER/Default/2023/12/364913425/NK/SC/TN/48570929/816wu6c4mql-sl1500-1000x1000.jpeg ",
+     
+    ],
+    "cardTitle": "Lego Technic Car",
+    "userId": "user_13",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": null,
+    "description": "Fun and functional toy or miscellaneous item in gently used condition. Safe for kids or collectors. Well maintained and clean. Fully functional with all parts intact. A delightful barter option for hobbyists or thoughtful gifting."
+  },
+  {
+    "id": 113,
+    "title": "LG Front Load Washing Machine",
+    "type": "Large Household Appliances",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2025/6/518213500/UV/IM/IB/54716195/lg-fhb1208z4m-front-load-washing-machine-1000x1000.jpeg  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2025/6/518213564/FG/KZ/ZH/54716195/lg-fhb1208z4m-front-load-washing-machine-1000x1000.jpeg   ",
+      "https://5.imimg.com/data5/SELLER/Default/2025/6/518213500/UV/IM/IB/54716195/lg-fhb1208z4m-front-load-washing-machine-1000x1000.jpeg  ",
+      "https://5.imimg.com/data5/SELLER/Default/2025/6/518213567/CJ/JE/QO/54716195/lg-fhb1208z4m-front-load-washing-machine-1000x1000.jpeg    ",
+      
+    ],
+    "cardTitle": "LG Front Load Washing Machine",
+    "userId": "user_14",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": 1195,
+    "description": "This large appliance offers robust performance with energy efficiency. Ideal for household needs, it includes user-friendly features and ample capacity. Well maintained and lightly used, it runs smoothly with no issues. Perfect for exchange or reuse, it adds value to any modern living space."
+  },
+  {
+    "id": 114,
+    "title": "Havells Electric Kettle",
+    "type": "Small Household Appliances",
+    "image": "https://apollo.olx.in/v1/files/0sq0b1b613271-IN/image;s=300x600;q=60 ",
+    "status": "Exchange",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+     
+      "https://apollo.olx.in/v1/files/0sq0b1b613271-IN/image;s=300x600;q=60  ",
+     
+      
+    ],
+    "cardTitle": "Havells Electric Kettle",
+    "userId": "user_15",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": null,
+    "description": "Compact and reliable, this small appliance is perfect for daily household tasks. Light signs of use with full functionality. It’s easy to operate and maintain. Suitable for kitchens, dorms, or small apartments. Great for exchange or resale, offering practical utility at a low cost."
+  },
+  {
+    "id": 115,
+    "title": "Lenovo ThinkPad E14",
+    "type": "Information & Communication Technology",
+    "image": " https://5.imimg.com/data5/ANDROID/Default/2023/6/316651245/EK/OL/HR/9418410/product-jpeg-1000x1000.jpg  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      " https://5.imimg.com/data5/ANDROID/Default/2023/6/316651338/ZN/TX/NX/9418410/product-jpeg-1000x1000.jpg ",
+      " https://5.imimg.com/data5/ANDROID/Default/2023/6/316651245/EK/OL/HR/9418410/product-jpeg-1000x1000.jpg ",
+      "https://5.imimg.com/data5/ANDROID/Default/2023/6/316651336/RJ/GU/OY/9418410/product-jpeg-1000x1000.jpg   ",
+      
+    ],
+    "cardTitle": "Lenovo ThinkPad E14",
+    "userId": "user_16",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": 1225,
+    "description": "This ICT device is tested and ready for use in both home and office environments. Delivers reliable connectivity and modern tech features. Minor cosmetic wear, no impact on performance. Perfect for exchange, remote work, or study. A practical addition to your tech setup."
+  },
+  {
+    "id": 116,
+    "title": "JBL Wireless Earbuds",
+    "type": "Consumer Electronics / Devices",
+    "image": " https://5.imimg.com/data5/ANDROID/Default/2022/3/MJ/SP/WB/148079382/prod-20220302-2318053212288923158083667-jpg-1000x1000.jpg  ",
+    "status": "Exchange",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/ANDROID/Default/2022/3/MJ/SP/WB/148079382/prod-20220302-2318053212288923158083667-jpg-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/ANDROID/Default/2022/3/KA/YN/ON/148079382/prod-20220302-2320502214357448186850035-jpg-1000x1000.jpg  ",
+      " https://5.imimg.com/data5/ANDROID/Default/2022/3/NK/JK/MB/148079382/product-jpeg-1000x1000.jpg  ",
+      
+    ],
+    "cardTitle": "JBL Wireless Earbuds",
+    "userId": "user_17",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": null,
+    "description": "Fully functional and tested, this consumer electronic device offers excellent usability. Sleek design, responsive interface, and high-quality output. Ideal for entertainment or productivity purposes. Well preserved and exchange-ready, it’s a smart choice for those upgrading or trading tech essentials."
+  },
+  {
+    "id": 117,
+    "title": "LG UltraWide Monitor",
+    "type": "TVs, Monitors & Display Devices",
+    "image": "https://dir.indiamart.com/search.mp?ss=LG+UltraWide+Monitor&search_type=p&src=adv-srch&mcatid=187920&catid=56&v=4&sref=adv-srch&trc=xim&tags=res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:3|lcf:-1|qr_nm:gd|cs:15958|com-cf:nl|ptrs:na|mc:187920|cat:56|qry_typ:P|lang:en|flavl:0-2|rtn:0-0-1-0-6-3-0|qrd:250708|mrd:250711|prdt:250711|msf:ms",
+    "status": "For Sale",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      
+      "https://dir.indiamart.com/search.mp?ss=LG+UltraWide+Monitor&search_type=p&src=adv-srch&mcatid=187920&catid=56&v=4&sref=adv-srch&trc=xim&tags=res:RC4|ktp:N0|stype:attr=1-br|mtp:Brn|wc:3|lcf:-1|qr_nm:gd|cs:15958|com-cf:nl|ptrs:na|mc:187920|cat:56|qry_typ:P|lang:en|flavl:0-2|rtn:0-0-1-0-6-3-0|qrd:250708|mrd:250711|prdt:250711|msf:ms",
+     
+    ],
+    "cardTitle": "LG UltraWide Monitor",
+    "userId": "user_18",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": 1255,
+    "description": "This display unit delivers clear visuals and dependable performance. Whether used for gaming, work, or media viewing, it offers solid screen quality and resolution. Light wear from regular use, no screen damage. Ideal for bartering or reuse at home or office."
+  },
+  {
+    "id": 118,
+    "title": "Exide 150Ah Battery",
+    "type": "Batteries & Power Storage",
+    "image": "https://4.imimg.com/data4/HR/XD/ANDROID-60022441/product-1000x1000.jpeg",
+    "status": "Exchange",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://4.imimg.com/data4/HR/XD/ANDROID-60022441/product-1000x1000.jpeg",
+      "https://4.imimg.com/data4/HR/XD/ANDROID-60022441/product-1000x1000.jpeg",
+      
+    ],
+    "cardTitle": "Exide 150Ah Battery",
+    "userId": "user_19",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": null,
+    "description": "Efficient power storage unit with consistent output and safe performance. Well suited for home systems, tools, or backup energy needs. Tested and working well with minimal signs of wear. Good for reuse or exchange for similar value electronics and components."
+  },
+  {
+    "id": 119,
+    "title": "Black+Decker Screwdriver Kit",
+    "type": "Electrical Tools & Equipment",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2020/9/OV/NB/IE/74208762/black-decker-a7104-xj-56-pc-magnetic-screwdriving-kit-with-ratchet-for-diy-use-1000x1000.jpg",
+    "status": "For Sale",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2020/9/FX/HM/OR/74208762/black-decker-a7104-xj-56-pc-magnetic-screwdriving-kit-with-ratchet-for-diy-use-1000x1000.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2020/9/OV/NB/IE/74208762/black-decker-a7104-xj-56-pc-magnetic-screwdriving-kit-with-ratchet-for-diy-use-1000x1000.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2020/9/YV/SA/LS/74208762/black-decker-a7104-xj-56-pc-magnetic-screwdriving-kit-with-ratchet-for-diy-use-1000x1000.jpg",
+      
+    ],
+    "cardTitle": "Black+Decker Screwdriver Kit",
+    "userId": "user_20",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": 1285,
+    "description": "Durable electrical tool or equipment with essential functions intact. Works reliably under routine conditions, good for DIY, repairs, or professional tasks. Little visible wear, well-tested, and ready to use. Valuable asset for anyone needing efficient tools on exchange basis."
+  },
+  {
+    "id": 120,
+    "title": "Canon Scanner",
+    "type": "Office & Business Equipment",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/5/422837805/LG/EG/GE/16384543/canon-scanner-1000x1000.jpeg   ",
+    "status": "Exchange",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2024/5/422837805/LG/EG/GE/16384543/canon-scanner-1000x1000.jpeg  ",
+     
+      
+    ],
+    "cardTitle": "Canon Scanner",
+    "userId": "user_21",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": null,
+    "description": "Suitable for small businesses or home offices, this equipment runs efficiently. Light wear, fully functional, and clean. Designed for productivity with low maintenance. Ideal for someone looking to exchange quality office tools at a reasonable cost."
+  },
+  {
+    "id": 121,
+    "title": "Belkin Surge Protector",
+    "type": "Cables & Accessories",
+    "image": "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/9/341487925/HQ/VS/TR/153017062/belkin-3-socket-surge-protector-1000x1000.jpg  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/9/341487926/YC/OG/NQ/153017062/belkin-3-socket-surge-protector-1000x1000.jpg ",
+      "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/9/341487925/HQ/VS/TR/153017062/belkin-3-socket-surge-protector-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/GLADMIN/VideoImage/2023/9/341487928/DD/TJ/ZA/153017062/belkin-3-socket-surge-protector-1000x1000.jpg    ",
+      
+    ],
+    "cardTitle": "Belkin Surge Protector",
+    "userId": "user_22",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": 1315,
+    "description": "A set of essential cables or accessories in good working condition. Useful for device connectivity, charging, or syncing. Each item tested and ready for use. Minimal cosmetic flaws. Exchange this bundle for similar gear or useful electronics."
+  },
+  {
+    "id": 122,
+    "title": "Wipro Smart Light Strip",
+    "type": "Lighting Devices",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/10/353331535/MR/FZ/VB/93638197/wipro-led-light-strip-1000x1000.jpg   ",
+    "status": "Exchange",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/10/353331535/MR/FZ/VB/93638197/wipro-led-light-strip-1000x1000.jpg    ",
+      " https://5.imimg.com/data5/SELLER/Default/2023/10/353331535/MR/FZ/VB/93638197/wipro-led-light-strip-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/SELLER/Default/2023/10/353331535/MR/FZ/VB/93638197/wipro-led-light-strip-1000x1000.jpg    ",
+    
+    ],
+    "cardTitle": "Wipro Smart Light Strip",
+    "userId": "user_23",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": null,
+    "description": "Lighting equipment in working condition, providing ample brightness for room or workspace. Energy-efficient and easy to install. Mild signs of use but no damage to functionality. Exchange-ready and great for eco-conscious users upgrading setups."
+  },
+  {
+    "id": 123,
+    "title": "Amazon Echo Dot",
+    "type": "Smart Home Devices",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2022/2/TD/YR/IG/6204691/dot-3rd-gen-500x500.jpg",
+    "status": "For Sale",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2022/2/TD/YR/IG/6204691/dot-3rd-gen-500x500.jpg",
+      "https://5.imimg.com/data5/SELLER/Default/2022/2/TD/YR/IG/6204691/dot-3rd-gen-500x500.jpg",
+      
+    ],
+    "cardTitle": "Amazon Echo Dot",
+    "userId": "user_24",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": 1345,
+    "description": "Modern smart home gadget, lightly used and fully responsive. Enhances daily convenience through automation and remote control. Compatible with most home ecosystems. Perfect for exchange to upgrade or expand home automation with minimal expense."
+  },
+  {
+    "id": 124,
+    "title": "Corsair 8GB RAM Stick",
+    "type": "Components & Spares",
+    "image": "https://i.ebayimg.com/images/g/6ukAAOSwPU5mKMhl/s-l1600.webp",
+    "status": "Exchange",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://i.ebayimg.com/images/g/i2sAAOSwAylmKMhl/s-l1600.webp",
+      "https://i.ebayimg.com/images/g/6ukAAOSwPU5mKMhl/s-l1600.webp",
+      "https://i.ebayimg.com/images/g/gtcAAOSwEYRmKMhk/s-l1600.webp   ",
+     
+    ],
+    "cardTitle": "Corsair 8GB RAM Stick",
+    "userId": "user_25",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": null,
+    "description": "Electronic components or spares in working order, tested and preserved. Ideal for repairs, DIY electronics, or replacements. No missing parts, suitable for technical users or resellers. Offered for exchange, great utility for tinkerers or small workshops."
+  },
+  {
+    "id": 125,
+    "title": "Nerf Elite Blaster",
+    "type": "Miscellaneous / Toys",
+    "image": "https://i.ebayimg.com/images/g/0akAAeSwFfloZxa-/s-l1600.webp",
+    "status": "For Sale",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      " https://i.ebayimg.com/images/g/kVsAAeSwRploZxa-/s-l1600.webp  ",
+      "https://i.ebayimg.com/images/g/0akAAeSwFfloZxa-/s-l1600.webp",
+    
+     
+    ],
+    "cardTitle": "Nerf Elite Blaster",
+    "userId": "user_26",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": 1375,
+    "description": "Fun and functional toy or miscellaneous item in gently used condition. Safe for kids or collectors. Well maintained and clean. Fully functional with all parts intact. A delightful barter option for hobbyists or thoughtful gifting."
+  },
+  {
+    "id": 126,
+    "title": "Whirlpool Microwave Oven",
+    "type": "Large Household Appliances",
+    "image": "https://5.imimg.com/data5/NSDMERP/Default/2023/1/VP/FX/JK/20332408/whirlpool-microwoven-1674636891272-1000x1000.jpg    ",
+    "status": "Exchange",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/NSDMERP/Default/2023/1/WW/MZ/YE/20332408/whirlpool-microwoven-1674636892204-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/NSDMERP/Default/2023/1/VP/FX/JK/20332408/whirlpool-microwoven-1674636891272-1000x1000.jpg   ",
+      " https://5.imimg.com/data5/NSDMERP/Default/2023/1/DN/FA/QY/20332408/whirlpool-microwoven-1674636893118-1000x1000.jpg  ",
+    
+    ],
+    "cardTitle": "Whirlpool Microwave Oven",
+    "userId": "user_27",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "price": null,
+    "description": "This large appliance offers robust performance with energy efficiency. Ideal for household needs, it includes user-friendly features and ample capacity. Well maintained and lightly used, it runs smoothly with no issues. Perfect for exchange or reuse, it adds value to any modern living space."
+  },
+  {
+    "id": 127,
+    "title": "Prestige Induction Cooktop",
+    "type": "Small Household Appliances",
+    "image": " https://5.imimg.com/data5/VE/DR/IK/SELLER-3978664/a-1-induction-cooktop-500x500.jpg  ",
+    "status": "For Sale",
+    "statusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/VE/DR/IK/SELLER-3978664/a-1-induction-cooktop-500x500.jpg ",
+      "https://5.imimg.com/data5/VE/DR/IK/SELLER-3978664/a-1-induction-cooktop-500x500.jpg  ",
+     
+     
+    ],
+    "cardTitle": "Prestige Induction Cooktop",
+    "userId": "user_28",
+    "cardStatus": "For Sale",
+    "cardStatusTag": [
+      "Fully Working",
+      "Like New",
+      "For Exchange"
+    ],
+    "price": 1405,
+    "description": "Compact and reliable, this small appliance is perfect for daily household tasks. Light signs of use with full functionality. It’s easy to operate and maintain. Suitable for kitchens, dorms, or small apartments. Great for exchange or resale, offering practical utility at a low cost."
+  },
+  {
+    "id": 128,
+    "title": "Dell Inspiron 15",
+    "type": "Information & Communication Technology",
+    "image": " https://5.imimg.com/data5/SELLER/Default/2024/12/470099364/LH/BL/QY/39566173/dell-used-laptop-1000x1000.jpg    ",
+    "status": "Exchange",
+    "statusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "additionalImages": [
+      "https://5.imimg.com/data5/SELLER/Default/2024/12/470099358/TT/IJ/SX/39566173/dell-used-laptop-1000x1000.jpg   ",
+      "https://5.imimg.com/data5/SELLER/Default/2024/12/470099364/LH/BL/QY/39566173/dell-used-laptop-1000x1000.jpg   ",
+      " https://5.imimg.com/data5/SELLER/Default/2024/12/470099374/NI/RM/JY/39566173/dell-used-laptop-1000x1000.jpg  ",
+   
+    ],
+    "cardTitle": "Dell Inspiron 15",
+    "userId": "user_29",
+    "cardStatus": "Exchange",
+    "cardStatusTag": [
+      "Used",
+      "Minor Scratches",
+      "For Sale"
+    ],
+    "price": null,
+    "description": "This ICT device is tested and ready for use in both home and office environments. Delivers reliable connectivity and modern tech features. Minor cosmetic wear, no impact on performance. Perfect for exchange, remote work, or study. A practical addition to your tech setup."
+  },
+  {
+    "id": ,
+    "title": ",
+    "type": "",
+    "image": "   ",
+    "status": "For Sale",
+    "statusTag": [
+      "Good Condition",
+      "Tested",
+      "Available"
+    ],
+    "additionalImages": [
+    "",
+    "",
+
+     
+    ],
+    "cardTitle": "",
+    "userId": "",
+    "cardStatus": "",
+    "cardStatusTag": [
+      ",
+      "",
+      ""
+    ],
+    "price": ,
+    "description": "."
+  }
+]

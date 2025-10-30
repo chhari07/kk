@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Handwoven Cotton Kurti",
+    "type": "Kurti",
+    "description": "Experience elegance with our handwoven cotton kurti crafted by rural artisans. Perfect for both festive and casual wear.",
+    "image": "https://images.unsplash.com/photo-1622782914767-f5b7b1c73a69",
+    "price": 1299,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Eco-Friendly", "Handcrafted", "Pure Cotton"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1603399301925-c751d4b7de29",
+      "https://images.unsplash.com/photo-1618354691249-1777f4b8caba"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Silk Embroidered Saree",
+    "type": "Saree",
+    "description": "A pure silk saree with intricate zari embroidery — a timeless piece that celebrates Indian craftsmanship.",
+    "image": "https://images.unsplash.com/photo-1600972526717-4a32e8612f62",
+    "price": 3499,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Traditional", "Silk", "Zari Work"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1628191013175-54e0a76f8a1e",
+      "https://images.unsplash.com/photo-1600891964599-f61ba0e24092"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Block Printed Dupatta",
+    "type": "Dupatta",
+    "description": "Hand block printed cotton dupatta with floral motifs and natural dyes. A must-have for every ethnic outfit.",
+    "image": "https://images.unsplash.com/photo-1583337130417-3346a1b4f9d5",
+    "price": 699,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Natural Dye", "Handmade", "Block Print"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1605733160314-4ce5f94b1a3a",
+      "https://images.unsplash.com/photo-1610878180933-b1a96424c7e3"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Terracotta Jewelry Set",
+    "type": "Jewelry",
+    "description": "A handcrafted terracotta necklace set painted in earthy tones. Lightweight and eco-friendly.",
+    "image": "https://images.unsplash.com/photo-1599488615730-26d4b4c90f2f",
+    "price": 549,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Eco-Friendly", "Artisan Made", "Lightweight"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1616400619170-3f8b1bfbef69",
+      "https://images.unsplash.com/photo-1589571894960-20bbe2828e6b"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Handcrafted Jute Bag",
+    "type": "Accessory",
+    "description": "Stylish and sustainable jute handbag made by rural women artisans. Perfect for everyday use.",
+    "image": "https://images.unsplash.com/photo-1621374692011-50f2fa4e9c49",
+    "price": 899,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Sustainable", "Handcrafted", "Eco Chic"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1622812989665-b3a65b1c38f0",
+      "https://images.unsplash.com/photo-1606811844443-b4a2b6c4e7d1"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Kalamkari Printed Skirt",
+    "type": "Skirt",
+    "description": "Long cotton skirt with traditional kalamkari prints. Comfortable, elegant, and ethically made.",
+    "image": "https://images.unsplash.com/photo-1620912189862-7bfbf21db7c2",
+    "price": 1199,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Ethnic Print", "Cotton", "Handcrafted"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1621806745696-f3a20b8e59a8",
+      "https://images.unsplash.com/photo-1612444530553-983e0e07c5f7"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Chanderi Dupatta with Gold Border",
+    "type": "Dupatta",
+    "description": "Chanderi fabric dupatta with golden border detailing — light, sheer, and elegant.",
+    "image": "https://images.unsplash.com/photo-1620494150075-9e3d4e0917e9",
+    "price": 1099,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Chanderi", "Gold Border", "Festive Wear"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1608238542512-b36f1c9e32f7",
+      "https://images.unsplash.com/photo-1588359364553-dc72f3f1f302"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Ajrakh Printed Kurta",
+    "type": "Kurti",
+    "description": "Traditional Ajrakh printed cotton kurta made with natural indigo dyes. A piece of timeless artistry.",
+    "image": "https://images.unsplash.com/photo-1596464716120-e48fbb67138b",
+    "price": 1499,
+    "cardStatus": "Available",
+    "cardStatusTag": ["Ajrakh", "Natural Indigo", "Artisan Crafted"],
+    "additionalImages": [
+      "https://images.unsplash.com/photo-1614749974458-1e36f8269397",
+      "https://images.unsplash.com/photo-1609782865323-2dc42b5a4a24"
+    ]
+  }
+]

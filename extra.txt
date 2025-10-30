@@ -1,0 +1,6 @@
+ <Link to="/" className="flex items-center gap-2">
+              <h1 className="text-xl  font-bold font-mono tracking-wide text-white">
+                <span className="text-black">BARTER</span>{" "}
+                <span className="text-[#00bf63] ">NOW</span>
+              </h1>
+            </Link>
